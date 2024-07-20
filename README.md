@@ -1,4 +1,4 @@
-Image Enhancement and Super-Resolution Using EDSR Model
+Image Enhancement and Super-Resolution Using EDSR Model :-
 This project focuses on enhancing and super-resolving images using a combination of OpenCV for image processing and the Enhanced Deep Super-Resolution (EDSR) model from TensorFlow Hub. 
 The implemented pipeline reduces noise, sharpens the image, and increases the image resolution to produce high-quality outputs.
 
